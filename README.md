@@ -4,3 +4,5 @@ Sportlife is the huge sport complex that is located in Shymkent. There you can b
 Team members: Aitas Zhakhan | Mansur Akay | Nursultan Orazgeldi
 
 Course: Advanced Programming (GOlang)
+
+![Uploading изображение.png…]()
